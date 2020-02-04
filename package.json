@@ -1,0 +1,23 @@
+{
+  "name": "freaking-universe",
+  "version": "1.0.0",
+  "description": "A javascript game",
+  "main": "app.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "game",
+    "universe",
+    "galaxy",
+    "stars",
+    "planets"
+  ],
+  "author": "Jorius Rios",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "moment": "^2.24.0"
+  }
+}
